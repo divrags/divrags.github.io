@@ -1,23 +1,31 @@
 html {
-  font-family: sans-serif;
+  font-family: serif;
 }
 
 form {
-  width: 100px;
-  margin: 0 auto;
+  width:700px;
+  height:300px;
+  margin: 10px;
+  display:inline-block
 }
 
 div {
   margin-bottom: 10px;
+  text-align: left;
 }
 
 fieldset {
-  background: yellow;
-  border: 5px solid blue;
+  background: #ffffcc;
+  border: 5px solid #9999ff;
 }
 
 legend {
   padding: 10px;
-  background: blue;
-  color: cyan;
+  background: #9999ff;
+  color: black;
+}
+
+textarea {
+	font-family: serif;
+	font-size: 18
 }
