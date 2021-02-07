@@ -18,13 +18,13 @@ div {
 }
 
 fieldset {
-  background: #adc2eb;
-  border: 5px solid #9933ff;
+  background: #F0E2CE;
+  border: 5px solid #AA9183;
 }
 
 legend {
   padding: 10px;
-  background: #9933ff;
+  background: #AA9183;
   color: black;
 }
 
@@ -35,7 +35,7 @@ textarea {
 
 input[type="text"], textarea {
 
-  background-color : #e6ccff; 
+  background-color : #F6F3E7; 
 
 }
 
