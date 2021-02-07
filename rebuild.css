@@ -1,0 +1,23 @@
+html {
+  font-family: serif;
+}
+body {
+	background-color: #e2ebe3;
+}
+button{
+	position: absolute;
+	top: .5rem;
+	right: .5rem;
+	border-radius: 70px;
+	padding: 0 1rem;
+	background: #000;
+	height: 50px;
+	width: 50px;
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+
+}
