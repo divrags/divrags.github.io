@@ -1,6 +1,9 @@
 html {
   font-family: serif;
 }
+body {
+	background-image: url("C:\Users\divst\Pictures\Pictores\cons2.png");
+}
 
 form {
   width:700px;
@@ -15,17 +18,35 @@ div {
 }
 
 fieldset {
-  background: #ffffcc;
-  border: 5px solid #9999ff;
+  background: #adc2eb;
+  border: 5px solid #9933ff;
 }
 
 legend {
   padding: 10px;
-  background: #9999ff;
+  background: #9933ff;
   color: black;
 }
 
 textarea {
 	font-family: serif;
 	font-size: 18
+}
+
+input[type="text"], textarea {
+
+  background-color : #e6ccff; 
+
+}
+
+button[id="silly"] {
+	padding-left: 300px;
+	padding-right: 75px;
+	display: inline-block;	
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
 }
